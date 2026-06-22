@@ -1,1 +1,1 @@
-{"ps":"https://autho.glitport.workers.dev/api/iptv-parser.php","sps":"https://autho.glitport.workers.dev/api/stream-parser.php","update":"https://autho.glitport.workers.dev/api/app-update-check.php","api":"https://autho.glitport.workers.dev/api/"}
+{"ps":"https://autho.glitport.workers.dev/api/parse","sps":"https://autho.glitport.workers.dev/api/st-parse","update":"https://autho.glitport.workers.dev/api/app-update-check","api":"https://autho.glitport.workers.dev/api/"}
